@@ -1,6 +1,9 @@
 Este seria un gran articulo sobre como usar git
-si quisieramos podriamos hblaar so bre git
 
+Prefiero que esto cambie a este lugar
+Consideremos que
 
 En muchas circunstancias este es un problema generico
 para poder hacer todo
+
+Aqui hay una nueva linea
