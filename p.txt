@@ -1,3 +1,4 @@
+este es un texto del segundo commit
 Esto es algo que se agrego en la segunda
 
 
@@ -5,5 +6,3 @@ Aqui hay otra linea
 
 
 Aqui hay otra segunda linea
-Esto deberia estar mas completo para
-poder definir como funciona git python diff
