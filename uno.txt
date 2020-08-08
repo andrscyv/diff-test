@@ -1,1 +1,3 @@
 adios local
+algo
+: leftover conflict marker
